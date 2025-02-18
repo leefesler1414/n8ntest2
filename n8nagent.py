@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # Configuration
-WEBHOOK_URL = "https://amazecannabis.app.n8n.cloud/webhook-test/4811f856-b1b7-4035-9f6c-961045ac72b2"
+WEBHOOK_URL = "https://amazecannabis.app.n8n.cloud/webhook/4811f856-b1b7-4035-9f6c-961045ac72b2"
 BEARER_TOKEN = "9f3e1a7b69e84f5fb12a6d0e5d2c7e9a2c3f4b5d6e7f8a9b0c1d2e3f4g5h6i7j"
 
 # Initialize session state if not already done
